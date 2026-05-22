@@ -27,7 +27,7 @@ This repository contains beginner-level Electrical Engineering projects built us
 - Basic electrical formula implementation
 - OUTPUT:-
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/ae3d237425ab04de7d786acd0c90cc4962c80b63/Screenshot_20260522_125738_Chrome.jpg)
-- ![image alt](
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/1b753ce1c0e9c114a0a02df0b4032672c779b896/Screenshot_20260522_125808_Chrome.jpg)
 - ![image alt](
 
 ## Tech Used
