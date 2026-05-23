@@ -50,10 +50,10 @@ Concepts Used:
 - Dynamic user input
 
 - OUTPUT:-
-- ![image alt](
-- ![image alt](
-- ![image alt](
-- ![image alt](
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/8e1c996a5823b220fd159fb47bafa2ab0f98e6cf/Screenshot_20260523_120709_Chrome.jpg)
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/8e1c996a5823b220fd159fb47bafa2ab0f98e6cf/Screenshot_20260523_120727_Chrome.jpg)
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/8e1c996a5823b220fd159fb47bafa2ab0f98e6cf/Screenshot_20260523_120748_Chrome.jpg)
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/8e1c996a5823b220fd159fb47bafa2ab0f98e6cf/Screenshot_20260523_120803_Chrome.jpg)
 
 ## Tech Used
 - Python
