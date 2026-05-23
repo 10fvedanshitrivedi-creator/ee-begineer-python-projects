@@ -30,6 +30,31 @@ This repository contains beginner-level Electrical Engineering projects built us
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/1b753ce1c0e9c114a0a02df0b4032672c779b896/Screenshot_20260522_125808_Chrome.jpg)
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/446a381699c46d2afd96b34d6972128a5a3665d0/Screenshot_20260522_125832_Chrome.jpg)
 
+- ## Smart Student Attendance System
+
+Features:
+- Multi-day attendance tracking
+- Present and absent day calculation
+- Attendance percentage calculation
+- Student attendance status
+- Defaulter student detection
+- Top attendance student tracking
+- Teacher and subject management
+
+Concepts Used:
+- Loops
+- Dictionaries
+- Lists
+- Conditional statements
+- Percentage calculations
+- Dynamic user input
+
+- OUTPUT:-
+- ![image alt](
+- ![image alt](
+- ![image alt](
+- ![image alt](
+
 ## Tech Used
 - Python
 - Basic Electrical Engineering concepts
