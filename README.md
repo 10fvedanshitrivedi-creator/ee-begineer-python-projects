@@ -82,7 +82,7 @@ Concepts Practiced:
 - Engineering-based problem solving
 
 - OUTPUT-
-- ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/de3189773a35b387e7571898cb96791b62f18607/Screenshot_20260525_093654_Chrome.jpg
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/de3189773a35b387e7571898cb96791b62f18607/Screenshot_20260525_093654_Chrome.jpg)
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/de3189773a35b387e7571898cb96791b62f18607/Screenshot_20260525_093708_Chrome.jpg)
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/de3189773a35b387e7571898cb96791b62f18607/Screenshot_20260525_093720_Chrome.jpg)
 
