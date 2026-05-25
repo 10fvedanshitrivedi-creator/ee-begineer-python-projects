@@ -55,6 +55,37 @@ Concepts Used:
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/8e1c996a5823b220fd159fb47bafa2ab0f98e6cf/Screenshot_20260523_120748_Chrome.jpg)
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/python-engineering-projects/blob/8e1c996a5823b220fd159fb47bafa2ab0f98e6cf/Screenshot_20260523_120803_Chrome.jpg)
 
+- ## Smart Electricity Usage Analyzer
+
+Features:
+- Appliance-wise electricity usage analysis
+- Average, highest, and lowest usage calculation
+- Estimated electricity cost calculation
+- High electricity consumption detection
+- Appliance ranking system
+- Category-wise appliance management
+- Bar graph visualization
+- Pie chart visualization
+
+Technologies Used:
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+Concepts Practiced:
+- Arrays and numerical operations
+- DataFrames and data analysis
+- Sorting and filtering data
+- Conditional analysis
+- Data visualization
+- Engineering-based problem solving
+
+- OUTPUT-
+- ![image alt](
+- ![image alt](
+- ![image alt](
+
 ## Tech Used
 - Python
 - Engineering problem-solving concepts
